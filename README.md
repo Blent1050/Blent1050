@@ -8,4 +8,7 @@ I'm a software developer currently working with Deloitte. Most of my contributio
 - 🌱 I’m currently deepening my understanding of Algorithms and Data Structures
 - 📫 How to reach me: Brandonlent@hey.com
 
+### What I'm reading
+- Introduction to Algorithms 3rd Edition by Cormen & others.
+
 Feel free to look at my pinned repositories below.
