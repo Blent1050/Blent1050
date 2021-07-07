@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer currently working with Nava PBC. Most of my contributions are on other platforms, but any of my personal projects are publicly avaiable here on Github.
+I'm a software developer currently working with Nava PBC. Most of my contributions are on other platforms, but any of my personal projects are available publicly here on Github.
 
 ### Current Status
 
